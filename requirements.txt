@@ -1,5 +1,5 @@
-requests==2.5.3
-click==5.1
+requests==2.9.3
+click==6.1
 
 # ethereum
 https://github.com/ethereum/serpent/tarball/develop
